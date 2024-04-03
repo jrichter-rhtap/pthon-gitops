@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jrichter/pthon:57454b56ef2afced3a4ea8c60f26398260a34c33@sha256:8912aabbc1fae211e0deb75c5b9ac18ef6aefbcf7ce7b6df83ea85042edb70bf
+        - image: quay.io/jrichter/pthon:57454b56ef2afced3a4ea8c60f26398260a34c33@sha256:94a4b714cd89f40c10f5015e1bef1358aa7d4baa24957cd8c4092c6d17c60552
           name: container-image
